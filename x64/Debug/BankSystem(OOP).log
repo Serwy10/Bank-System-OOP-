@@ -1,0 +1,47 @@
+﻿  BankSystem(OOP).cpp
+C:\Users\elser\source\repos\BankSystem(OOP)\BankSystem(OOP)\Myc++Libarires\clsString.h(221,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'BankSystem(OOP).cpp')
+  
+C:\Users\elser\source\repos\BankSystem(OOP)\BankSystem(OOP)\Myc++Libarires\clsString.h(245,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'BankSystem(OOP).cpp')
+  
+C:\Users\elser\source\repos\BankSystem(OOP)\BankSystem(OOP)\Myc++Libarires\clsString.h(275,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'BankSystem(OOP).cpp')
+  
+C:\Users\elser\source\repos\BankSystem(OOP)\BankSystem(OOP)\Myc++Libarires\clsString.h(327,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'BankSystem(OOP).cpp')
+  
+C:\Users\elser\source\repos\BankSystem(OOP)\BankSystem(OOP)\Myc++Libarires\clsString.h(341,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'BankSystem(OOP).cpp')
+  
+C:\Users\elser\source\repos\BankSystem(OOP)\BankSystem(OOP)\clsUser.h(13,14): warning C4091: 'static ': ignored on left of 'clsUser::enMode' when no variable is declared
+  (compiling source file 'BankSystem(OOP).cpp')
+  
+C:\Users\elser\source\repos\BankSystem(OOP)\BankSystem(OOP)\Myc++Libarires\clsPeriod.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BankSystem(OOP).cpp')
+  
+C:\Users\elser\source\repos\BankSystem(OOP)\BankSystem(OOP)\Myc++Libarires\clsPeriod.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BankSystem(OOP).cpp')
+  
+C:\Users\elser\source\repos\BankSystem(OOP)\BankSystem(OOP)\clsBankClient.h(278,25): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem(OOP).cpp')
+  
+C:\Users\elser\source\repos\BankSystem(OOP)\BankSystem(OOP)\clsBankClient.h(287,26): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem(OOP).cpp')
+  
+C:\Users\elser\source\repos\BankSystem(OOP)\BankSystem(OOP)\clsAddNewClient.h(23,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem(OOP).cpp')
+  
+C:\Users\elser\source\repos\BankSystem(OOP)\BankSystem(OOP)\clsUpdateClients.h(21,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem(OOP).cpp')
+  
+C:\Users\elser\source\repos\BankSystem(OOP)\BankSystem(OOP)\clsTotalBalances.h(44,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'BankSystem(OOP).cpp')
+  
+C:\Users\elser\source\repos\BankSystem(OOP)\BankSystem(OOP)\clsTransfer.h(57,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'BankSystem(OOP).cpp')
+  
+C:\Users\elser\source\repos\BankSystem(OOP)\BankSystem(OOP)\clsLogin.h(40,12): warning C4129: 'e': unrecognized character escape sequence
+  (compiling source file 'BankSystem(OOP).cpp')
+  
+  BankSystem(OOP).vcxproj -> C:\Users\elser\source\repos\BankSystem(OOP)\x64\Debug\BankSystem(OOP).exe
