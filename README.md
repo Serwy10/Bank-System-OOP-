@@ -35,12 +35,18 @@ The system simulates real-world banking operations such as account management, t
 - File System (for data storage)
 
 ---
-
 ## 📦 How to Run
-1. Clone the repository:
+
+### 1. Clone the repository
+
 ```bash
 git clone https://github.com/Serwy10/Bank-System-OOP-
-
-1. Clone the repository:
+2. Open the project in Visual Studio
+Open Visual Studio
+Click on "Open a project or solution"
+Navigate to the project folder
+Open: BankSystem(OOP).vcxproj
+3. Build and Run
+Press Ctrl + F5 to run the program
 ```bash
 git clone https://github.com/Serwy10/Bank-System-OOP-
