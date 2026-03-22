@@ -23,7 +23,7 @@ The system simulates real-world banking operations such as account management, t
   - Encapsulation
   - Inheritance
 - File Handling
-- Data Structures (if used)
+- Data Structures
 - Modular Design
 
 ---
